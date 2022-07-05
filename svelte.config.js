@@ -13,11 +13,7 @@ const config = {
 
 	kit: {
 		adapter: adapter(),
-		vite: {
-			server: {
-				port: 3001
-			}
-		}
+	
 	}
 };
 
